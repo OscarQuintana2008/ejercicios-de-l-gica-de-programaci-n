@@ -4,18 +4,22 @@
 1
 0
 0
-5
-1
-4
-edad
-6
-1
-6
-resta 
-7
-60-edad
 4
 1
+44
+'señor usuario cuantas tazas quiere comprar'
 5
-resta
+1
+5
+tazas
+6
+1
+1
+t
+10
+7000*tazas
+4
+1
+16
+'debes pagar', t
 1

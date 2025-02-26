@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+'porfavor digite la edad de su pareja primero y luego la suya'
+5
+1
+5
+p,mia
+7
+0
+1
+5
+p>mia
+4
+1
+28
+'yo soy mayor que mi pareja'
+6
+1
+4
+dife
+5
+mia-p
+13
+4
+1
+28
+'yo soy menor que mi pareja'
+6
+1
+4
+dife
+5
+p-mia
+13
+4
+1
+40
+'la diferencia de edad es de',dife,'año'
+1
