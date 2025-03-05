@@ -4,23 +4,47 @@
 1
 0
 0
+4
+1
+57
+'señor usuario porfavor digite el valor de cada producto'
 5
 1
-2
-ox
+8
+v1,v2,v3
 7
 0
 1
+37
+v1<100000 AND v2<100000 AND v3<100000
+6
+3
+1
+s
+8
+v1+v2+v3
+3
+des
+6
+s*0.05
+1
+t
 5
-ox<20
+s-des
 4
 1
-15
-'ing esta vivo'
+46
+'señor usuario el valor de su compra es de', t
 13
+6
+1
+1
+s
+8
+v1+v2+v3
 4
 1
-14
-'ing se murio'
+1
+s
 13
 1

@@ -4,23 +4,27 @@
 1
 0
 0
+4
+1
+49
+'Mr. user, please enter the three security codes'
 5
 1
-3
-num
+14
+pas1,pas2,pas3
 7
 0
 1
-8
-num != 8
+31
+pas1=15 AND pas2=60 AND pas3=85
 4
 1
-6
-'gana'
+28
+'your password is incorrect'
 13
 4
 1
-8
-'pierde'
+53
+' your password is correct the safe has been opened '
 13
 1
